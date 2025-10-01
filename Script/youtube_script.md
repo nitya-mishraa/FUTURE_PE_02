@@ -22,7 +22,7 @@
 ### Final chosen hook variation
 1. **Shock-based (Highest CTR )**  
 “Warning: The AI tools I’m about to show you could literally replace YOUR job in 2025.”  
-[Visual: Red flashing “⚠ JOBS AT RISK” text with glitch effect]
+[Visual: Red flashing “JOBS AT RISK” text with glitch effect]
 ---
 
 ## [Value Promise – 0:15 sec]
