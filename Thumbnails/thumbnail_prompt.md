@@ -11,7 +11,7 @@ Generate 10 unique, scroll-stopping thumbnail design concepts for the video:
 ---
 
 ### Output Format
-Idea # | Background | Text Overlay (max 3 words) | Emoji/Icon | Human Expression
+Idea # | Background | Text Overlay (max 3 words) | Human Expression
 
 ### Design Constraints
 - Size: 1280×720 px (16:9)  
