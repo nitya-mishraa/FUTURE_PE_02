@@ -7,7 +7,7 @@
 ### 3 Hook Variations
 1. **Shock-based (Highest CTR )**  
 “Warning: The AI tools I’m about to show you could literally replace YOUR job in 2025.”  
-[Visual: Red flashing “⚠ JOBS AT RISK” text with glitch effect]
+[Visual: Red flashing “ JOBS AT RISK” text with glitch effect]
 
 2. **Curiosity-driven (Medium CTR)**  
 “These 5 AI tools are quietly replacing jobs… and you probably haven’t even heard of them yet.”  
