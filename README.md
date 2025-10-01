@@ -47,15 +47,6 @@ Contains the **full video script** and the **prompt documentation** used to gene
 Contains the **final edited video**.
 
 - **final_video.mp4** – Full YouTube video.  
-   If file size is too large, include a **drive link** instead of direct upload.
-
----
-
-### 5. `Assets/`
-Optional supporting files.
-
-- **ppt_reference_notes.pdf** – Reference notes used while generating content (if applicable).  
-- **extra_designs.png** – Any additional design variations (optional).
 
 ---
 
@@ -64,7 +55,6 @@ Optional supporting files.
 2. Check **Thumbnails/** for all concepts and the chosen final thumbnail.  
 3. Use **Script/** for the full video script and prompt documentation.  
 4. Play **Video/final_video.mp4** to review the final output.  
-5. Optional assets in **Assets/** can be referenced for further design or scripting guidance.
 
 ---
 
@@ -72,7 +62,6 @@ Optional supporting files.
 - All content follows Gen Z-friendly, high-retention, and SEO-optimized practices.  
 - Thumbnail designs prioritize **CTR, clarity, and mobile readability**.  
 - Video script is **800–1500 words**, fully structured with hooks, B-roll, and mid-engagement prompts.  
-- Emojis have been removed from thumbnails per request.
 
 ---
 
