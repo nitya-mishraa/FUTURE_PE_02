@@ -59,7 +59,7 @@ Optional supporting files.
 
 ---
 
-## 🔹 How to Use
+##  How to Use
 1. Browse **Titles/** to see generated YouTube titles and the final selection.  
 2. Check **Thumbnails/** for all concepts and the chosen final thumbnail.  
 3. Use **Script/** for the full video script and prompt documentation.  
