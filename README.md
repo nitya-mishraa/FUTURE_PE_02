@@ -1,8 +1,7 @@
-# FutureIntern_Task1_PromptEngineering
+# PromptEngineering
 
 ---
 
-## Folder Structure & Contents
 
 ### 1. `Titles/`
 Contains the **YouTube video titles** generated from the prompt.
